@@ -1,0 +1,13 @@
+{
+  "name": "NewProject_2",
+  "uuid": "9cb70c94-d6d6-4e99-98ff-7fa2453706ad",
+  "creator": {
+    "version": "3.7.1"
+  },
+  "dependencies": {
+    "umtrack-quickgame": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0"
+  }
+}

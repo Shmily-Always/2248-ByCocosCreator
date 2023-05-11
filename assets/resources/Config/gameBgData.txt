@@ -1,0 +1,11 @@
+唯一id	背景名	路径
+id	bgName	path
+1	bg1	Texture/gameBg/bg1/spriteFrame
+2	bg2	Texture/gameBg/bg2/spriteFrame
+3	bg3	Texture/gameBg/bg3/spriteFrame
+4	bg4	Texture/gameBg/bg4/spriteFrame
+5	bg5	Texture/gameBg/bg5/spriteFrame
+6	bg6	Texture/gameBg/bg6/spriteFrame
+7	bg7	Texture/gameBg/bg7/spriteFrame
+8	bg8	Texture/gameBg/bg8/spriteFrame
+9	bg9	Texture/gameBg/bg9/spriteFrame

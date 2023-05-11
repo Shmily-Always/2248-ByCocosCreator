@@ -1,0 +1,27 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "38b8b958-aae6-4556-8584-45ac1a19ba6c",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {
+      "bytedance-mini-game": "subpackage",
+      "wechatgame": "subpackage",
+      "vivo-mini-game": "subpackage",
+      "oppo-mini-game": "subpackage",
+      "huawei-quick-game": "subpackage"
+    },
+    "isRemoteBundle": {
+      "bytedance-mini-game": false,
+      "wechatgame": false,
+      "vivo-mini-game": false,
+      "oppo-mini-game": false,
+      "huawei-quick-game": false
+    },
+    "isBundle": true,
+    "bundleName": "resources",
+    "priority": 8
+  }
+}

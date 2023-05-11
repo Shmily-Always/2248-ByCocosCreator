@@ -1,0 +1,12 @@
+唯一id	音效名	路径
+id	soundName	path
+1	button	Sound/anniu
+2	openskilllayer	Sound/openskilllayer
+3	reward	Sound/reward
+4	doublelayer	Sound/doublelayer
+5	maxminlayer	Sound/maxminlayer
+6	compose3	Sound/compose3
+7	combo	Sound/combo
+8	adddiamond	Sound/adddiamond
+9	unlocklayer	Sound/unlocklayer
+10	skillSound	Sound/skillSound

@@ -1,0 +1,9 @@
+唯一id	音效名	路径
+id	soundName	path
+1	P32	Sound/gamut/p32
+2	P35	Sound/gamut/p35
+3	P39	Sound/gamut/p39
+4	P44	Sound/gamut/p44
+5	P47	Sound/gamut/p47
+6	P51	Sound/gamut/p51
+7	P69	Sound/gamut/p69
